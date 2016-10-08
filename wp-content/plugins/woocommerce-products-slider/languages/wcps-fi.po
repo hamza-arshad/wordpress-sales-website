@@ -1,0 +1,688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Products Slider\n"
+"POT-Creation-Date: 2016-03-15 19:25+0600\n"
+"PO-Revision-Date: 2016-03-15 19:25+0600\n"
+"Last-Translator: Nur Hasan <public.nurhasan@gmail.com>\n"
+"Language-Team: ParaTheme <support@paratheme.com>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPath-2: templates\n"
+"X-Poedit-SearchPath-3: includes/menu\n"
+
+#: includes/class-functions.php:62 includes/meta.php:812
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-functions.php:63 includes/meta.php:699
+msgid "Title"
+msgstr ""
+
+#: includes/class-functions.php:64
+msgid "Excerpt"
+msgstr ""
+
+#: includes/class-functions.php:65 includes/meta.php:823
+msgid "Category"
+msgstr ""
+
+#: includes/class-functions.php:66
+msgid "Price"
+msgstr ""
+
+#: includes/class-functions.php:67
+msgid "Rating"
+msgstr ""
+
+#: includes/class-functions.php:68
+msgid "Cart"
+msgstr ""
+
+#: includes/class-functions.php:69
+msgid "Sale"
+msgstr ""
+
+#: includes/class-settings.php:21
+msgid "Settings"
+msgstr "Asetukset"
+
+#: includes/class-shortcodes.php:143
+msgid "No Product to Slide"
+msgstr "Ei tuotteita"
+
+#: includes/functions.php:84 includes/meta.php:293 includes/meta.php:304
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/functions.php:176
+msgid "No categories found!"
+msgstr ""
+
+#: includes/menu/settings.php:36
+msgid "Changes Saved."
+msgstr "Muutokset tallennettu."
+
+#: includes/menu/settings.php:56
+msgid " Settings"
+msgstr "Asetukset"
+
+#: includes/menu/settings.php:67 includes/meta.php:294
+msgid "Options"
+msgstr "Vaihtoehdot"
+
+#: includes/menu/settings.php:68
+msgid "Help"
+msgstr "Apua"
+
+#: includes/menu/settings.php:77
+msgid "Track product View"
+msgstr ""
+
+#: includes/menu/settings.php:81 includes/meta.php:711 includes/meta.php:840
+msgid "No"
+msgstr ""
+
+#: includes/menu/settings.php:82 includes/meta.php:841
+msgid "Yes"
+msgstr ""
+
+#: includes/menu/settings.php:95
+msgid "Need Help ?"
+msgstr "Tarvitsetko apua?"
+
+#: includes/menu/settings.php:97
+msgid ""
+"Feel free to contact with any issue for this plugin, Ask any question via "
+"forum"
+msgstr ""
+
+#: includes/menu/settings.php:97
+msgid "(free)"
+msgstr ""
+
+#: includes/menu/settings.php:126
+msgid "Submit Reviews."
+msgstr "Jätä kommentti"
+
+#: includes/menu/settings.php:128
+msgid ""
+"We are working hard to build some awesome plugins for you and spend thousand "
+"hour for plugins. we wish your three(3) minute by submitting five star "
+"reviews at wordpress.org. if you have any issue please submit at forum"
+msgstr ""
+
+#: includes/menu/settings.php:139
+msgid "Please Share"
+msgstr "Jaa tarina"
+
+#: includes/menu/settings.php:140
+msgid "If you like this plugin please share with your social share network."
+msgstr ""
+"Jos pidät tästä liitännäisestä ja haluat tukea työtäni, ole hyvä ja tee "
+"rahalahjoitus. Voit lisäksi lähettää kehitysidean tehdäksesi liitännäisestä "
+"vielä paremman."
+
+#: includes/menu/settings.php:147
+msgid "Video Tutorial"
+msgstr "Videoesittely"
+
+#: includes/menu/settings.php:148
+msgid "Please watch this video tutorial."
+msgstr "Katso video"
+
+#: includes/menu/settings.php:165
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: includes/meta.php:13 includes/meta.php:14
+msgid "WCPS"
+msgstr "WCPS"
+
+#: includes/meta.php:15 includes/meta.php:16 includes/meta.php:18
+msgid "New WCPS"
+msgstr "Uusi WCPS"
+
+#: includes/meta.php:17
+msgid "Edit WCPS"
+msgstr "Muokkaa WCPS"
+
+#: includes/meta.php:19
+msgid "View WCPS"
+msgstr "Katso WCPS"
+
+#: includes/meta.php:20
+msgid "Search WCPS"
+msgstr "Etsi WCPS"
+
+#: includes/meta.php:21
+msgid "Nothing found"
+msgstr "Ei löydy"
+
+#: includes/meta.php:22
+msgid "Nothing found in Trash"
+msgstr "Ei löydy"
+
+#: includes/meta.php:60
+msgid "Woocommerce Products Slider Options"
+msgstr "Woocommerce Products Slider Vaihtoehdot"
+
+#: includes/meta.php:295
+msgid "Style"
+msgstr "Tyyli"
+
+#: includes/meta.php:296
+msgid "Content"
+msgstr "Sisältö"
+
+#: includes/meta.php:297
+msgid "Custom CSS"
+msgstr "Oma CSS"
+
+#: includes/meta.php:306
+msgid ""
+"Copy this shortcode and paste on page or post where you want to display "
+"slider."
+msgstr ""
+"Kopio lyhytkoodi ja maalaa se sivulle tai artikkeliin jossa haluat näyttää "
+"kuvagallerian."
+
+#: includes/meta.php:308
+msgid "Use PHP code to your themes file to display slider."
+msgstr "Käytä PHP koodia teemasi tiedostossa näyttääksesi kuvagalleria."
+
+#: includes/meta.php:321
+msgid "Slider Total Items"
+msgstr ""
+
+#: includes/meta.php:322
+msgid "ex: 10"
+msgstr ""
+
+#: includes/meta.php:327
+msgid "Slider Column Number"
+msgstr ""
+
+#: includes/meta.php:329
+msgid "In Destop: (min:1000px and max)"
+msgstr ""
+
+#: includes/meta.php:332
+msgid "In Tablet & Small Desktop: (900px max width)"
+msgstr ""
+
+#: includes/meta.php:335
+msgid "In Mobile: (479px max width)"
+msgstr ""
+
+#: includes/meta.php:343
+msgid "Slider Auto Play"
+msgstr ""
+
+#: includes/meta.php:348 includes/meta.php:358 includes/meta.php:369
+#: includes/meta.php:392 includes/meta.php:407 includes/meta.php:436
+#: includes/meta.php:447
+msgid "True"
+msgstr ""
+
+#: includes/meta.php:349 includes/meta.php:359 includes/meta.php:370
+#: includes/meta.php:393 includes/meta.php:406 includes/meta.php:437
+#: includes/meta.php:448
+msgid "False"
+msgstr ""
+
+#: includes/meta.php:354
+msgid "Slider Stop on Hover"
+msgstr ""
+
+#: includes/meta.php:365
+msgid "Slider Navigation"
+msgstr ""
+
+#: includes/meta.php:366
+msgid "Slider Navigation at Top"
+msgstr "Takaisin kotiin"
+
+#: includes/meta.php:374
+msgid "Slider Navigation Position"
+msgstr ""
+
+#: includes/meta.php:376
+msgid "Top Right"
+msgstr ""
+
+#: includes/meta.php:377
+msgid "Middle"
+msgstr ""
+
+#: includes/meta.php:378
+msgid "Middle fixed"
+msgstr ""
+
+#: includes/meta.php:388
+msgid "Slider Pagination"
+msgstr ""
+
+#: includes/meta.php:389
+msgid "Slider Pagination at Bottom"
+msgstr ""
+
+#: includes/meta.php:398
+msgid "Pagination Background Color"
+msgstr "Sivunumeroinnin taustaväri"
+
+#: includes/meta.php:401
+msgid "Pagination Text Color"
+msgstr "Sivunumerointi tekstin väri"
+
+#: includes/meta.php:404
+msgid "Pagination Number Counting"
+msgstr ""
+
+#: includes/meta.php:420
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/meta.php:425
+msgid "Pagination Slide Speed"
+msgstr ""
+
+#: includes/meta.php:431
+msgid "Slider Touch Drag Enabled"
+msgstr ""
+
+#: includes/meta.php:443
+msgid "Slider Mouse Drag Enabled"
+msgstr ""
+
+#: includes/meta.php:457
+msgid "Themes for slider"
+msgstr "Teemat"
+
+#: includes/meta.php:480
+msgid "Slider Ribbon"
+msgstr "Karusellin nauha"
+
+#: includes/meta.php:551
+msgid "Container options"
+msgstr ""
+
+#: includes/meta.php:552
+msgid "Padding: (ex: 10px)"
+msgstr ""
+
+#: includes/meta.php:555
+msgid "Background color:"
+msgstr ""
+
+#: includes/meta.php:558
+msgid "Background image:"
+msgstr ""
+
+#: includes/meta.php:563
+msgid "Clear"
+msgstr ""
+
+#: includes/meta.php:588
+msgid "Items Options"
+msgstr ""
+
+#: includes/meta.php:589
+msgid "Items Background color"
+msgstr ""
+
+#: includes/meta.php:592
+msgid "Items Padding"
+msgstr ""
+
+#: includes/meta.php:604
+msgid "Empty Thumbnail"
+msgstr "Tyhjä pikkukuva"
+
+#: includes/meta.php:605
+msgid "Custom thumbnail image url"
+msgstr ""
+
+#: includes/meta.php:674
+msgid "Query order"
+msgstr "Järjestys"
+
+#: includes/meta.php:677
+msgid "Descending"
+msgstr ""
+
+#: includes/meta.php:678
+msgid "Ascending "
+msgstr ""
+
+#: includes/meta.php:690
+msgid "Query orderBy"
+msgstr ""
+
+#: includes/meta.php:693
+msgid "None"
+msgstr ""
+
+#: includes/meta.php:694
+msgid "ID"
+msgstr ""
+
+#: includes/meta.php:695
+msgid "Date"
+msgstr ""
+
+#: includes/meta.php:696
+msgid "Rand"
+msgstr ""
+
+#: includes/meta.php:697
+msgid "Comment Count"
+msgstr ""
+
+#: includes/meta.php:698
+msgid "Author"
+msgstr ""
+
+#: includes/meta.php:700
+msgid "Name"
+msgstr ""
+
+#: includes/meta.php:701
+msgid "Type"
+msgstr ""
+
+#: includes/meta.php:708
+msgid "Hide out of stock items"
+msgstr ""
+
+#: includes/meta.php:712
+msgid "Yes "
+msgstr ""
+
+#: includes/meta.php:721
+msgid "Filter Slider Content."
+msgstr ""
+
+#: includes/meta.php:724
+msgid "Display from <b>Recent</b> Published"
+msgstr ""
+
+#: includes/meta.php:725
+msgid "Slider items will query from recent published product."
+msgstr ""
+
+#: includes/meta.php:728
+msgid "Display from <b>Featured</b> Product"
+msgstr ""
+
+#: includes/meta.php:729
+msgid "Slider items will query from featured marked product."
+msgstr ""
+
+#: includes/meta.php:732
+msgid "Display from Only <b>Year</b>"
+msgstr ""
+
+#: includes/meta.php:734
+msgid "Slider items will query from a year."
+msgstr ""
+
+#: includes/meta.php:739
+msgid "Display from <b>Month</b>"
+msgstr ""
+
+#: includes/meta.php:740
+msgid "Slider items will query from Month of a year."
+msgstr ""
+
+#: includes/meta.php:752
+msgid "Items sort."
+msgstr ""
+
+#: includes/meta.php:753
+msgid "Click each items to expand."
+msgstr ""
+
+#: includes/meta.php:754
+msgid "Reset"
+msgstr ""
+
+#: includes/meta.php:806
+msgid "Slider Thumbnail Size"
+msgstr ""
+
+#: includes/meta.php:809
+msgid "Full"
+msgstr ""
+
+#: includes/meta.php:810
+msgid "Large"
+msgstr ""
+
+#: includes/meta.php:811
+msgid "Medium"
+msgstr ""
+
+#: includes/meta.php:819
+msgid "Items thumbnail link's to"
+msgstr ""
+
+#: includes/meta.php:822
+msgid "Product"
+msgstr ""
+
+#: includes/meta.php:831
+msgid "Slider thumb max hieght(px)"
+msgstr ""
+
+#: includes/meta.php:837
+msgid "Display Thumbnail Zoom button"
+msgstr ""
+
+#: includes/meta.php:854
+msgid "Items Add to cart button Style"
+msgstr ""
+
+#: includes/meta.php:855
+msgid "You can hide items Add to cart button on slider."
+msgstr ""
+
+#: includes/meta.php:857
+msgid "Default"
+msgstr ""
+
+#: includes/meta.php:858
+msgid "Custom"
+msgstr ""
+
+#: includes/meta.php:863
+msgid "Add to cart Background Color"
+msgstr ""
+
+#: includes/meta.php:869
+msgid "Add to cart Text Color"
+msgstr ""
+
+#: includes/meta.php:875
+msgid "Items Cart Text Align"
+msgstr ""
+
+#: includes/meta.php:879 includes/meta.php:932 includes/meta.php:991
+#: includes/meta.php:1016 includes/meta.php:1072 includes/meta.php:1114
+msgid "Left"
+msgstr ""
+
+#: includes/meta.php:880 includes/meta.php:933 includes/meta.php:992
+#: includes/meta.php:1017 includes/meta.php:1073 includes/meta.php:1115
+msgid "Right"
+msgstr ""
+
+#: includes/meta.php:881 includes/meta.php:934 includes/meta.php:993
+#: includes/meta.php:1018 includes/meta.php:1075 includes/meta.php:1116
+msgid "Center"
+msgstr ""
+
+#: includes/meta.php:897
+msgid "Sale marker icon url"
+msgstr ""
+
+#: includes/meta.php:916
+msgid "Items Title Color"
+msgstr ""
+
+#: includes/meta.php:921
+msgid "Items Title Font Size"
+msgstr ""
+
+#: includes/meta.php:928
+msgid "Items Title Text Align"
+msgstr ""
+
+#: includes/meta.php:947
+msgid "Featured marker icon url"
+msgstr ""
+
+#: includes/meta.php:959
+msgid "Price format on slider"
+msgstr ""
+
+#: includes/meta.php:962
+msgid "Full Format"
+msgstr ""
+
+#: includes/meta.php:963
+msgid "Sale price"
+msgstr ""
+
+#: includes/meta.php:964
+msgid "Regular price"
+msgstr ""
+
+#: includes/meta.php:973
+msgid "Items Price Color"
+msgstr ""
+
+#: includes/meta.php:979
+msgid "Items price Font Size"
+msgstr ""
+
+#: includes/meta.php:987
+msgid "Price Text Align"
+msgstr ""
+
+#: includes/meta.php:1012
+msgid "Items Rating Text Align"
+msgstr ""
+
+#: includes/meta.php:1025
+msgid "Items ratings Font Size"
+msgstr ""
+
+#: includes/meta.php:1032
+msgid "Items Ratings Color"
+msgstr ""
+
+#: includes/meta.php:1049
+msgid "Excerpt word count"
+msgstr ""
+
+#: includes/meta.php:1055
+msgid "Excerpt read more text"
+msgstr "Lue lisää "
+
+#: includes/meta.php:1061
+msgid "Items Excerpt Font Size"
+msgstr ""
+
+#: includes/meta.php:1068
+msgid "Excerpt Text Align"
+msgstr ""
+
+#: includes/meta.php:1081
+msgid "Items Excerpt Font color"
+msgstr ""
+
+#: includes/meta.php:1103
+msgid "Items Category Font Size"
+msgstr ""
+
+#: includes/meta.php:1110
+msgid "Category Text Align"
+msgstr ""
+
+#: includes/meta.php:1125
+msgid "Items Category Font color"
+msgstr ""
+
+#: includes/meta.php:1180
+msgid "Custom CSS for this slider."
+msgstr ""
+
+#: includes/meta.php:1181
+msgid ""
+"Do not use &lt;style>&lt;/style> tag, you can use bellow prefix to your css, "
+"sometime you need use \"!important\" to overrid."
+msgstr ""
+
+#: templates/wcps-featured.php:22
+msgid "Featured Product"
+msgstr "Erikoistuotteet"
+
+#: templates/wcps-rating.php:41
+msgid "Rated"
+msgstr "Arvostelu"
+
+#: templates/wcps-sale.php:19
+msgid "Sale Product"
+msgstr "Alennustuote"
+
+#~ msgid "Active"
+#~ msgstr "Aktiivi"
+
+#~ msgid "Inactive"
+#~ msgstr "Ei aktiivi"
+
+#~ msgid "Items category display"
+#~ msgstr "Kategoria arkisto"
+
+#~ msgid "Background Image"
+#~ msgstr "Taustakuva"
+
+#~ msgid "Category:"
+#~ msgstr "Kategoria:"
+
+#~ msgid "Price: "
+#~ msgstr "Hinta: "
+
+#~ msgid "Submit Reviews"
+#~ msgstr "Jätä kommentti"
+
+#~ msgid ""
+#~ "We are working hard to build some awesome plugins for you and spend "
+#~ "thousand hour for plugins. we wish your three(3) minute by submitting "
+#~ "five star reviews at wordpress.org. if you have any issue please submit "
+#~ "at forum."
+#~ msgstr ""
+#~ "Pyrimme rakentamaan joitakin mahtavia plugins sinulle ja viettää tuhat "
+#~ "tunnissa lisäosia. haluamme teidän kolmen (3) minuutin esittämällä viiden "
+#~ "tähden tarkasteluihin wordpress.org. jos sinulla on kysymys lähetä Forum."
+
+#~ msgid ""
+#~ "Copy this shortcode and paste on page or post where you want to display "
+#~ "slider. "
+#~ msgstr ""
+#~ "Kopio lyhytkoodi ja maalaa se sivulle tai artikkeliin jossa haluat "
+#~ "näyttää kuvagallerian."
+
+#~ msgid "Themes"
+#~ msgstr "Teemat"
+
+#~ msgid "Price:"
+#~ msgstr "Hinta:"
